@@ -1,0 +1,16 @@
+{
+  "name": "Arcanine",
+  "description": "Arcanine card",
+  "image_url": "https://github.com/datkira/pkm-demo/blob/master/pokemons/Arcanine.jpg",
+  "attributes": [
+    {
+      "trait_type": "class",
+      "value": "genesis"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1624955102
+    }
+  ]
+}
