@@ -1,7 +1,7 @@
 {
-  "name": "Charizard",
-  "description": "Charizard card",
-  "image_url": "https://github.com/datkira/pkm-demo/blob/master/pokemons/Charizard.jpg",
+  "name": "Charizard 2",
+  "description": "Charizard card 2",
+  "image_url": "https://github.com/datkira/pkm-demo/blob/master/pokemons/2.jpg",
   "attributes": [
     {
       "trait_type": "class",

@@ -1,7 +1,7 @@
 {
-  "name": "Greninja",
-  "description": "Genesis card",
-  "image_url": "https://github.com/datkira/pkm-demo/blob/master/pokemons/Greninja.jpg",
+  "name": "Greninja 3",
+  "description": "Genesis card 3",
+  "image_url": "https://github.com/datkira/pkm-demo/blob/master/pokemons/3.jpg",
   "attributes": [
     {
       "trait_type": "class",

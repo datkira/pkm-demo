@@ -1,7 +1,7 @@
 {
-  "name": "Arcanine",
-  "description": "Arcanine card",
-  "image_url": "https://github.com/datkira/pkm-demo/blob/master/pokemons/Arcanine.jpg",
+  "name": "Arcanine 1",
+  "description": "Arcanine card 1",
+  "image_url": "https://github.com/datkira/pkm-demo/blob/master/pokemons/1.jpg",
   "attributes": [
     {
       "trait_type": "class",
